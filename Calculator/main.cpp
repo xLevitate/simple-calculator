@@ -2,6 +2,7 @@
 #include <iostream>
 
 // simple calculator I made while bored, is kinda buggy with broken numbers and some subtraction and division problems.
+// code is really bad don't judge.
 // made by levitate.
 
 namespace calculator

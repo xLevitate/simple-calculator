@@ -48,12 +48,6 @@ int main()
 	std::cout << "[4] Division" << std::endl;
 	std::cin >> selection;
 
-	if (selection < 1 || selection > 4)
-	{
-		std::cout << "Invalid selection." << std::endl;
-		return 1;
-	}
-
 	std::cout << "Enter the first number:" << std::endl;
 	std::cin >> a;
 	std::cout << "Enter the second number:" << std::endl;
